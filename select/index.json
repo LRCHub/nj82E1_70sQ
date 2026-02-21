@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "スクランブル交際",
+  "base_artist": "DECO*27",
+  "createdAt": "2026-02-21T05:45:45.967561Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スクランブル交際",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_スクランブル交際_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スクランブル交際",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_スクランブル交際_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スクランブル交際",
+      "artist": "DECO*27, Rockwell",
+      "has_synced": true,
+      "path": "select/03_スクランブル交際_DECO_27,_Rockwell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スクランブル交際",
+      "artist": "Yuu.",
+      "has_synced": true,
+      "path": "select/04_スクランブル交際_Yuu..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スクランブル交際",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_スクランブル交際_DECO_27.txt"
+    }
+  ]
+}
